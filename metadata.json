@@ -1,0 +1,5 @@
+{
+  "name": "CppMastery: Memory & Operators",
+  "description": "An interactive, modern educational tool for mastering C++ memory management concepts, specifically focusing on Pointers, References, and the Arrow vs. Dot operators.",
+  "requestFramePermissions": []
+}
